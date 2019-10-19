@@ -1,6 +1,6 @@
 # RSCGo Client
 
-*** Deprecated: Use https://github.com/spkaeros/mudclient204 ***
+___Deprecated: Use https://github.com/spkaeros/mudclient204___
 
 This is simply a refactored 202 RSClassic mudclient which I've added various features to, and made various modifications to over the years.
 
