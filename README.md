@@ -1,4 +1,7 @@
 # RSCGo Client
+
+__* Deprecated: Use https://github.com/spkaeros/mudclient204 *__
+
 This is simply a refactored 202 RSClassic mudclient which I've added various features to, and made various modifications to over the years.
 
 This is the reference client which I test the RSCGo server against, and no other client is guarenteed to work with RSCGo except this one.
